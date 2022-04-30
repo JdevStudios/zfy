@@ -1,2 +1,0 @@
-# xtekky.github.io
-api
