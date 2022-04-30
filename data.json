@@ -1,1 +1,62 @@
-{"Status": "Online"}
+{
+  "Data": {
+    "Feed": "We now have a vanity! .gg/NoelP", 
+    "LiveVersion": "V6.8", 
+    "StartupMessage": "Sorry for the long downtime! Enjoy!", 
+    "Status": "Enabled", 
+    "UA": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36", 
+    "VersionInt": "68"
+  }, 
+  "FreerData": {
+    "Captcha": "/html/body/main/div/div/div[3]/div/div/div/h5/button[2]", 
+    "CommentHearts": "/html/body/main/div/div/div[2]/div/div/div/h5/button[3]", 
+    "Hearts": "/html/body/main/div/div/div[2]/div/div/div/h5/button[1]", 
+    "Shares": "/html/body/main/div/div/div[2]/div/div/div/h5/button[4]", 
+    "SharesTimer": "/html/body/div[4]/div[6]/div/div/h4", 
+    "Views": "/html/body/main/div/div/div[2]/div/div[1]/div[3]/div/div/button", 
+    "ViewsConfirm": "/html/body/main/div/div/div[2]/form/div/div", 
+    "ViewsInput": "/html/body/main/div/div/div[2]/form/div/input"
+  }, 
+  "RichPresence": {
+    "Buttons": {
+      "DiscordButton": {
+        "Label": "Discord Server", 
+        "Url": "https://noelp.live/"
+      }, 
+      "DownloadButton": {
+        "Label": "Free Download", 
+        "Url": "https://noelp.live/"
+      }
+    }, 
+    "Client_ID": "955580335352078419", 
+    "Details": "How premium can it get for free", 
+    "Large_Image": "largeimage", 
+    "Small_Image": "smallimage", 
+    "State": "Exploiting.."
+  }, 
+  "ZefoyData": {
+    "Captcha": "/html/body/div[4]/div[2]/form/div/div/img", 
+    "CaptchaInput": "/html/body/div[4]/div[2]/form/div/div/div/input", 
+    "CommentHearts": "/html/body/div[4]/div[1]/div[3]/div/div[3]/div/button", 
+    "CommentHeartsConfirm": "/html/body/div[4]/div[4]/div/div/div[1]/div/form/button", 
+    "CommentHeartsInput": "/html/body/div[4]/div[4]/div/form/div/input", 
+    "FollowersTimer": "/html/body/div[4]/div[2]/div/div/h4", 
+    "Follows": "/html/body/div[4]/div[1]/div[3]/div/div[1]/div/button", 
+    "FollowsConfirm": "/html/body/div[4]/div[2]/div/div/div[1]/div/form/button", 
+    "FollowsInput": "/html/body/div[4]/div[2]/div/form/div/input", 
+    "Hearts": "/html/body/div[4]/div[1]/div[3]/div/div[2]/div/button", 
+    "HeartsConfirm": "/html/body/div[4]/div[3]/div/div/div[1]/div/form/button", 
+    "HeartsInput": "/html/body/div[4]/div[3]/div/form/div/input", 
+    "HeartsTimer": "/html/body/div[4]/div[3]/div/div/h4", 
+    "LocateElement": "/html/body/div[4]/div[1]/div[3]/div/div[4]/div", 
+    "Shares": "/html/body/div[4]/div[1]/div[3]/div/div[5]/div/button", 
+    "SharesConfirm": "/html/body/div[4]/div[6]/div/div/div[1]/div/form/button", 
+    "SharesInput": "/html/body/div[4]/div[6]/div/form/div/input", 
+    "SharesTimer": "/html/body/div[4]/div[6]/div/div/h4", 
+    "URLFollowButton": "/html/body/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div[1]/div[2]", 
+    "Views": "/html/body/div[4]/div[1]/div[3]/div/div[4]/div/button", 
+    "ViewsConfirm": "/html/body/div[4]/div[5]/div/div/div[1]/div/form/button", 
+    "ViewsInput": "/html/body/div[4]/div[5]/div/form/div/input", 
+    "ViewsTimer": "/html/body/div[4]/div[5]/div/div/h4"
+  }
+}
