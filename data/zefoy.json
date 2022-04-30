@@ -1,11 +1,13 @@
 {
   "Data": {
-    "Feed": "We now have a vanity! .gg/NoelP", 
-    "LiveVersion": "V6.8", 
-    "StartupMessage": "Sorry for the long downtime! Enjoy!", 
+    "Server": "Join the discord server: discord.gg/onlp to get the Key", 
+    "LiveVersion": "9.0.1", 
+    "Code":"Yes"
+    "Script": "print('hello')"
+    "Message": "", 
     "Status": "Enabled", 
+    "Key": "tekkyontop",
     "UA": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36", 
-    "VersionInt": "68"
   }, 
   "FreerData": {
     "Captcha": "/html/body/main/div/div/div[3]/div/div/div/h5/button[2]", 
@@ -16,23 +18,6 @@
     "Views": "/html/body/main/div/div/div[2]/div/div[1]/div[3]/div/div/button", 
     "ViewsConfirm": "/html/body/main/div/div/div[2]/form/div/div", 
     "ViewsInput": "/html/body/main/div/div/div[2]/form/div/input"
-  }, 
-  "RichPresence": {
-    "Buttons": {
-      "DiscordButton": {
-        "Label": "Discord Server", 
-        "Url": "https://noelp.live/"
-      }, 
-      "DownloadButton": {
-        "Label": "Free Download", 
-        "Url": "https://noelp.live/"
-      }
-    }, 
-    "Client_ID": "955580335352078419", 
-    "Details": "How premium can it get for free", 
-    "Large_Image": "largeimage", 
-    "Small_Image": "smallimage", 
-    "State": "Exploiting.."
   }, 
   "ZefoyData": {
     "Captcha": "/html/body/div[4]/div[2]/form/div/div/img", 
