@@ -3,7 +3,7 @@
     "Server": "Join the discord server: discord.gg/onlp to get the Key", 
     "LiveVersion": "9.0.1", 
     "Code":"Yes"
-    "Script": "print('hello')"
+    "Script": "input()"
     "Message": "", 
     "Status": "Enabled", 
     "Key": "tekkyontop",
